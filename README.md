@@ -51,13 +51,10 @@ My Streak & Stats!
 </h2>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasingh&theme=tokyonight" alt="SnehaStats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sn3h4DEV&theme=tokyonight" alt="SnehaStats" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=snehasingh&show_icons=true&theme=tokyonight&hide_border=true" alt="Sneha's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehasingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
 
 </div>
 
@@ -71,7 +68,7 @@ My Activity Graph!
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/>
 </h2>
 
-[![Sneha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=snehasingh&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/snehasingh)
+[![Sneha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sn3h4DEV&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/Sn3h4DEV)
 
 </div>
 
@@ -94,7 +91,7 @@ Connect With Me
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=snehasingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Sn3h4DEV&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
